@@ -1,2 +1,2 @@
 # CrossCorrelatedAssets
-Strategy to backtest equities for cross-correlation
+Code to backtest equities for cross-correlation
